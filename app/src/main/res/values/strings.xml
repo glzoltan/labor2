@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">labor2</string>
+    <string name="firstcmp">First name</string>
+    <string name="secondcmp">Last name</string>
+    <string name="firsttxt">Number of calls from Register page</string>
+    <string name="secondtxt">Number of calls from Profile</string>
+    <string name="firstbtn">SIGN UP</string>
+    <string name="secondbtn">REGISTER</string>
+</resources>
